@@ -1,0 +1,15 @@
+﻿VERSION 1
+
+
+CREATE DATABASE `webdefinder` CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+CREATE TABLE `jobs` (
+    `idx`  tinyint NOT NULL auto_increment,
+    `title`  varchar(50) NOT NULL ,
+    `writer`  varchar(50) NOT NULL ,
+    `regdate`  date,
+    `clicknum`  int(11) NOT NULL ,
+    `content`  text NOT NULL,
+    `type`  varchar(20) NOT NULL ,
+    PRIMARY KEY (`idx`)
+)charset=utf8;
