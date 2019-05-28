@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+body{font-family: 'Saira Semi Condensed', sans-serif; font-size:13px; margin:0 auto; letter-spacing:0.1em;
+margin: 0;
+padding: 0;
+overflow-x: hidden;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+.wrapper{
+    /** martin top: 120px - header 20px = 100px */
+    margin: 120px 0 10vh 0;
+    padding: 0;
+    width: 100vw;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}

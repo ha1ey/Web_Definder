@@ -188,7 +188,50 @@
                 </div>
                 <!--card-->
             </div>
-           
+            <div class="container">
+                <!--card-->
+                <div class="card" id='7'>
+                    <img  id="img7" src='http://www.kimeunbin.com/images/big/pic141.jpg'/>
+                    <infoContainer id="text" onmouseover="resize1(this,7)" onmouseout="resize2(this,7)" onclick="window.location.href = 'http://www.kimeunbin.com';">
+                    <h2 class="animate-text" id="7h">프리랜서 김은비</h2>
+                    <p class="animate-text" id="7p"><i class="fa fa-envelope-o" aria-hidden="true"></i><br>project@kimeunbin.com<br><br>
+                        <i class="fa fa-phone" aria-hidden="true"></i><br>
+                        010-9891-****
+                    </p>
+                    </infoContainer>
+                </div>
+                <!--card-->
+                <!--card-->
+                <div class="card" id='8'>
+                    <img  id="img8" src='http://nahye1206.cafe24.com/wp-content/uploads/2016/11/-161010_블랙프라이데이_라혜련-e1478145537322.jpg'/>
+                        <infoContainer id="text" onmouseover="resize1(this,8)" onmouseout="resize2(this,8)" onclick="window.location.href = 'http://nahye1206.cafe24.com';" >
+                    <h2 class="animate-text" id="8h">프리랜서 라혜련</h2>
+                    <p class="animate-text" id="8p">
+                                <i class="fa fa-envelope-o" aria-hidden="true"></i><br>  babolang@naver.com
+                                <i class="fa fa-phone" aria-hidden="true"></i><br>  010-4447-****<br> <br> 
+                            
+                    </infoContainer>
+                </div>
+                <!--card-->
+                <!--card-->
+                <div class="card" id='9'>
+                    <img id="img9" src='http://www.aeyong.com/aeyong/data/file/web/thumb/990586001_bC3GmtoM_18.jpg'/>
+                        <infoContainer id="text" onmouseover="resize1(this,9)" onmouseout="resize2(this,9)" onclick="window.location.href = 'http://www.aeyong.com/aeyong/bbs/board.php?bo_table=web';">
+                    <h2 class="animate-text" id="9h">프리랜서 백애영</h2>
+                    <p class="animate-text" id="9p">
+                        <i class="fa fa-envelope-o" aria-hidden="true"></i><br>
+                        bayweb@naver.com<br><br>
+                        <i class="fa fa-phone" aria-hidden="true"></i><br>
+                        010-3618-****
+                    </p>
+                    </infoContainer>
+                </div>
+                <!--card-->
+
+
+
+				
+            </div>
         </div>
 		
 <div id="footer">
